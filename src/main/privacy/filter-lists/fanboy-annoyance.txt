@@ -1,0 +1,3 @@
+! fallback fanboy subset
+||push-notifications.com^
+||newsletter-popup^
