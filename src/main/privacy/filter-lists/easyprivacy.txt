@@ -1,0 +1,4 @@
+! fallback easyprivacy subset
+||google-analytics.com^
+||facebook.com/tr^
+||segment.io^
