@@ -1,0 +1,4 @@
+! fallback easylist subset
+||doubleclick.net^
+||adservice.google.com^
+||googlesyndication.com^
